@@ -16,5 +16,4 @@ library(datasauRus)
 
 
 ### Lab Exercise
-
 (There are two variables x.y ,the numbers varying ,and also a decimal table showing the values of these variables .)
